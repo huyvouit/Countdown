@@ -30,7 +30,11 @@ header{
 .title{
 	color: #0045d6;
 }
-
+.time-date{
+    position: absolute; 
+    top: 10px;
+    right: 10px;
+}
 .content{
 	height: 60vh;
 	width: 100%;
